@@ -4,6 +4,11 @@
 To simulate a Full wave Centre Tapped Transformer rectifier circuit and compare the outputs with and without filter:
 
 ## CIRCUIT DIAGRAM:
+Full Wave Centre Tapped Transformer Rectifier Without Filter:
+<img width="778" height="577" alt="image" src="https://github.com/user-attachments/assets/80ed6e6c-46de-44cc-bb17-2e407f48089c" />
+
+Full Wave Centre Tapped Transformer Rectifier With Filter:
+<img width="736" height="438" alt="image" src="https://github.com/user-attachments/assets/97c2d136-f4ab-4b95-9860-60f593a34298" />
 
 ## STEPS FOR SIMULATION:
 
@@ -29,4 +34,13 @@ To simulate a Full wave Centre Tapped Transformer rectifier circuit and compare 
 
 ## OUTPUT:
 
+Full Wave Centre Tapped Transformer Rectifier Without Filter:
+
+<img width="1280" height="657" alt="image" src="https://github.com/user-attachments/assets/8a569147-0df8-420b-b19e-327d3e7a409e" />
+
+Full Wave Centre Tapped Transformer Rectifier With Filter:
+
+<img width="1280" height="663" alt="image" src="https://github.com/user-attachments/assets/c3750c93-317a-4dbf-b79b-ea7534acf323" />
+
 ## RESULT:
+![image](https://github.com/user-attachments/assets/b79ed1d9-2428-425a-a2c2-e14dafdffffc)
